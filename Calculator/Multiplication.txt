@@ -1,0 +1,9 @@
+
+pubblic void class Calculator{
+
+Public int Multiplication(int a, int b)
+{
+
+return a*b;
+}
+}
