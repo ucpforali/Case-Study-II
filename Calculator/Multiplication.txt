@@ -1,0 +1,9 @@
+
+pubblic void class Calculator{
+
+Public double Multiplication(double Param1, double Param2)
+{
+    double result =  Convert.ToDouble(aa) *  Convert.ToDouble(bb);
+    return result;
+}
+}
